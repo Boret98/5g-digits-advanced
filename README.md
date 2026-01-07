@@ -7,6 +7,8 @@ In this PBL we will learn how to use AI for anomaly detection and response. The 
 3. Create visual or textual indicators of detected issues.
 4. Propose a simplified incident response plan for city-level deployment.
 
+This practical PBL exercise has an estimated duration of 140 minutes.
+
 ## Step 1: Analyse a dataset containing simulated 5G service performance or logs.
 
 We will start by presenting the publicly available dataset to be used in the PBL and why it was chosen.
